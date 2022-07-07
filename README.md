@@ -17,3 +17,9 @@ TODO list:
 * need to improve the line drawing
 * need to implement the watching which hand is in the video and watching only one hand.
 * implement a gesture which start the volume setting and an another which stop the volume setting
+
+---
+
+This program using the `OpenCV` library and the `MediaPipe` library.
+
+Feel free to fork this program and create a new, better program from it!
